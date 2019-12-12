@@ -4,8 +4,9 @@ import java.util.LinkedList;
 
 /**
  *
- * @author abel_
- */
+ * @author Abel Johany Cazares Amparan
+ *          18550400
+ *
 public class Principal {
 
     public static void main(String[] args) {
